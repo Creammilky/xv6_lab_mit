@@ -1,3 +1,10 @@
+# xv6 lab of Carl
+Author: Carl Tan \\ Date : 2024/02
+---
+This is my wsl | ubuntu | vscode | github stack repo. Containing my workouts in MIT xv6 labs of 6.1810: Operating System Engineering.
+---
+Below is origin README:
+\\\
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
 but is implemented for a modern RISC-V multiprocessor using ANSI C.
